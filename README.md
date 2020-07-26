@@ -1,4 +1,4 @@
-![Waves](./waves.svg)
+![Waves](https://github.com/rensatsu/rensatsu/blob/master/waves.svg)
 
 ### Hi there 🕷
 
