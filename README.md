@@ -8,9 +8,10 @@ Welcome to my GitHub profile!
 
 🔸 Blog: [rensatsu.xyz](https://rensatsu.xyz)
 
-⚡ Tech:
+🛠 Tech Stack
 * Languages: PHP, Javascript, Node.js, Golang.
-* Tools: VS Code, Chrome, MS Edge, Postman.
+* Tools: VS Code, Chrome, MS Edge, Postman, Git.
+* Databases: MariaDB (MySQL), Redis.
 
 <!--
 Some badges:
