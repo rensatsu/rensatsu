@@ -1,18 +1,19 @@
-### Hi there 🕷
-
 ![Waves](./waves.svg)
 
+### Hi there 🕷
+
+Welcome to my GitHub profile!
+
+🔸 Name's Pavel. I'm a PHP and Javascript developer.
+
+🔸 Blog: [rensatsu.xyz](https://rensatsu.xyz)
+
+⚡ Tech:
+* Languages: PHP, Javascript, Node.js, Golang.
+* Tools: VS Code, Chrome, MS Edge, Postman.
+
 <!--
-**rensatsu/rensatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some badges:
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
