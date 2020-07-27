@@ -1,6 +1,6 @@
 ![Waves](https://github.com/rensatsu/rensatsu/blob/master/waves.svg)
 
-### Hi there 🕷
+## Hi there 🕷
 
 Welcome to my GitHub profile!
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 🔸 Blog: [rensatsu.xyz](https://rensatsu.xyz)
 
-🛠 Tech Stack
+### 🛠 Tech Stack
 * Languages: PHP, Javascript, Node.js, Golang.
 * Tools: VS Code, Chrome, MS Edge, Postman, Git.
 * Databases: MariaDB (MySQL), Redis.
