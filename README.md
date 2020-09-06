@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 
 🔸 Name's Pavel. I'm a PHP and Javascript developer.
 
-🔸 Blog: [rensatsu.xyz](https://rensatsu.xyz)
+🔸 Blog: [rensatsu.gitlab.io](https://rensatsu.gitlab.io)
 
 ### 🛠 Tech Stack
 * Languages: PHP, Javascript, Node.js, Golang.
