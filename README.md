@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 
 🔸 Name's Pavel. I'm a PHP and Javascript developer.
 
-🔸 Blog: [rensatsu.gitlab.io](https://rensatsu.netlify.app)
+🔸 Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
 
 ### 🛠 Tech Stack
 * Languages: PHP, Javascript, Node.js, Golang.
