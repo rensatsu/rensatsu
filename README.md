@@ -10,12 +10,6 @@ Welcome to my GitHub profile!
 🔸 Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
 
 ### 🛠 Tech Stack
-* Languages: PHP, Javascript, Node.js, Golang.
+* Languages: PHP, Javascript, TypeScript, Node.js, Golang.
 * Tools: VS Code, Chrome, MS Edge, Insomnia Core, Git.
-* Databases: MariaDB (MySQL), Redis.
-
-<!--
-Some badges:
-[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-
--->
+* Databases: MariaDB (MySQL), Redis, Cloudflare Workers KV.
