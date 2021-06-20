@@ -12,4 +12,4 @@ Welcome to my GitHub profile!
 ### 🛠 Tech Stack
 * Languages: PHP, Javascript, TypeScript, Node.js, Golang.
 * Tools: VS Code, Chrome, MS Edge, Insomnia Core, Git.
-* Databases: MariaDB (MySQL), Redis, Cloudflare Workers KV.
+* Databases: MariaDB (MySQL), Redis, Cloudflare Workers KV, SQLite.
