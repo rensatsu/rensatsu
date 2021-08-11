@@ -1,7 +1,4 @@
-<!--
-![Waves](https://github.com/rensatsu/rensatsu/blob/master/waves.svg)
--->
-## Hi there 🕷
+## Hi there!
 
 Welcome to my GitHub profile!
 
