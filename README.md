@@ -25,6 +25,14 @@ Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
 
 [Stats generated with `github-readme-stats`](https://github.com/anuraghazra/github-readme-stats)
 
+### 💸 Donate
+
+| Currency | Wallet |
+| :- | :- |
+| Bitcoin | `bc1qjtd2arkeuzav0qyy68c858ud3l7fexa50z9h9n` |
+| Ethereum | `0xdD04fc32E4EA0619d458037894a887279B979B3A` |
+| Litecoin | `ltc1q2y3mehnmnzf66qmf8anrlcxvemwtp2yrzmr4st` |
+
 ### 🛡 Badges
 
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)  
