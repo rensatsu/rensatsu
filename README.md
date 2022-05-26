@@ -1,10 +1,8 @@
 ## Hi there!
 
-Welcome to my GitHub profile!
+Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
 
-🔸 Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
-
-🔸 Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
+🏡 Homepage and Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
 
 ### 🛠 Tech Stack
 
