@@ -2,7 +2,7 @@
 
 Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
 
-🏡 Homepage and Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
+🌐 Homepage and Blog: [rensatsu.netlify.app](https://rensatsu.netlify.app)
 
 ### 🛠 Tech Stack
 
