@@ -9,7 +9,7 @@ Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
 #### Languages
 
 - PHP
-- JavaScript, TypeScript, Node.JS.
+- JavaScript (Vanilla, Vue 3), TypeScript, Node.JS.
 
 #### Tools
 
