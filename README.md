@@ -19,12 +19,6 @@ Name's **Pavel**. I'm a **PHP** and **JavaScript** developer.
 
 - MariaDB (MySQL), Redis, Cloudflare Workers KV, SQLite.
 
-### 📊 Stats
-
-[![Profile stats][stats]](#-stats)
-
-[Stats generated with `github-readme-stats`](https://github.com/anuraghazra/github-readme-stats)
-
 ### 💸 Donate
 
 | Currency | Wallet |
